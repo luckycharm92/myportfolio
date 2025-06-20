@@ -1,0 +1,48 @@
+[
+  {
+    "title": "C",
+    "imageSrc": "skills/regc.png"
+},
+
+{
+  "title": "SQL",
+  "imageSrc": "skills/sql.png"
+},
+
+    {
+        "title": "Python",
+        "imageSrc": "skills/python.png"
+    },
+
+    {
+      "title": "C++",
+      "imageSrc": "skills/cpp.png"
+  },
+
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/javas.png"
+    },
+
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "PL/SQL",
+      "imageSrc": "skills/plsql.png"
+    }
+    
+  ]

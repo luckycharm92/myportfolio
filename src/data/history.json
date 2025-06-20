@@ -1,0 +1,59 @@
+[
+    
+  {
+    "role": "Goldman Sachs Virtual Insight Series",
+    "organisation": "Goldman Sachs",
+    "startDate": "May, 2025",
+    "endDate": "June, 2025",
+    "experiences": [],
+    "imageSrc": "history/gs.png"
+  },
+
+  {
+    "role": "Amazon Women of the World",
+    "organisation": "Amazon",
+    "startDate": "May, 2025",
+    "endDate": "May, 2025",
+    "experiences": [],
+    "imageSrc": "history/amazon.png"
+  },
+
+  {
+    "role": "Jane Street FOCUS Programme",
+    "organisation": "Jane Street",
+    "startDate": "January, 2025",
+    "endDate": "January, 2025",
+    "experiences": [],
+    "imageSrc": "history/js.png"
+  },
+
+  {
+      "role": "Software Developer Intern",
+      "organisation": "Cayman Islands Government",
+      "startDate": "June, 2024",
+      "endDate": "August 2024",
+      "experiences": [],
+      "imageSrc": "history/caygov.png"
+    },
+
+    {
+      "role": "EPQ Research on Artificial Intelligence",
+      "organisation": "Cayman Prep and High School",
+      "startDate": "Sep, 2022",
+      "endDate": "June, 2023",
+      "experiences": [],
+      "imageSrc": "history/cayprep.png"
+    }, 
+    {
+      "role": "Software Developer Intern",
+      "organisation": "Harmonic Fund Services",
+      "startDate": "Aug, 2021",
+      "endDate": "Aug, 2021",
+      "experiences": [],
+      "imageSrc": "history/harmonic.png"
+    }
+
+    
+
+    
+  ]

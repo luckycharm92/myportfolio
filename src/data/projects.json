@@ -1,0 +1,47 @@
+[
+    
+  {
+    "title": "Leeds Hack 2025 - Project: Mealio",
+    "imageSrc": "projects/mealio.png",
+    "description": "Streamlined thr process of healthy recipe discovery for university students, ensuring they keep a healthy diet.",
+    "skills": ["React JS", "Python Flask", "HTMLL","CSS"],
+    "demo": "",
+    "source": ""
+  },
+  
+  {
+      "title": "Social Networking Startup",
+      "imageSrc": "projects/social.png",
+      "description": "Collaborating with creatives in the Cayman Islands and the United Kingdom to drive positive youth impact.",
+      "skills": ["Flutter", "Flask"],
+      "demo": "",
+      "source": ""
+    },
+
+    {
+      "title": "Pokemon API Battle Simulator",
+      "imageSrc": "projects/poke.png",
+      "description": "Turn based battle simulator, real time stat calculation and dynamic role switching for Pokemon.",
+      "skills": ["Pokemon API", "JSON", "HTMLL","Python Libararies"],
+      "demo": "",
+      "source": "https://github.com/luckycharm92/Pok-mon-Battle-API"
+    },
+
+    {
+      "title": "University Budget Buddy",
+      "imageSrc": "projects/unibb3.png",
+      "description": "Website designed to assist university students in managing their finances.",
+      "skills": ["Javascript", "HTML", "CSS"],
+      "demo": "https://uni-budget-buddy-8pcr.vercel.app/",
+      "source": "https://github.com/luckycharm92/uni-budget-buddy/tree/master"
+    }, 
+    {
+      "title": "Car Insurance Premium Estimator",
+      "imageSrc": "projects/carprem.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Python"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+    
+  ]
