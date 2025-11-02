@@ -1,5 +1,13 @@
 [
-    
+   {
+    "title": "Wordle",
+    "imageSrc": "projects/wordle.png",
+    "description": "Created a simple command line implementation of the popular game Wordle.",
+    "skills": ["Kotlin"],
+    "demo": "",
+    "source": "https://github.com/luckycharm92/wordle-game"
+  },
+
   {
     "title": "Leeds Hack 2025 - Project: Mealio",
     "imageSrc": "projects/mealio.png",
@@ -13,7 +21,7 @@
       "title": "Social Networking Startup",
       "imageSrc": "projects/social.png",
       "description": "Collaborating with creatives in the Cayman Islands and the United Kingdom to drive positive youth impact.",
-      "skills": ["Flutter", "Flask"],
+      "skills": ["Flutterflow", "Firebase"],
       "demo": "",
       "source": ""
     },
@@ -38,7 +46,7 @@
     {
       "title": "Car Insurance Premium Estimator",
       "imageSrc": "projects/carprem.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "Created a command line car insurance premium estimator.",
       "skills": ["Python"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
