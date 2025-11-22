@@ -1,5 +1,15 @@
 [
-   {
+   
+  {
+    "title": "LU Factorization vs Gaussian Elimination for Large Linear Systems",
+    "imageSrc": "projects/lufac.png",
+    "description": "Calculated Upper Triangular & Lower Triangular, Determinant of a 100x100 Matrix, and compared run times with Guassian Elimination.",
+    "skills": ["Python, Matplotlib, Solving Linear Equations"],
+    "demo": "",
+    "source": "https://github.com/luckycharm92/LU-factorization-VS-Gaussian-Elimination-Implementation"
+  },
+  
+  {
     "title": "Wordle",
     "imageSrc": "projects/wordle.png",
     "description": "Created a simple command line implementation of the popular game Wordle.",
