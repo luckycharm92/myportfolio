@@ -1,7 +1,14 @@
 [
 
 
-
+  {
+    "title": "Viva: Breast Cancer Risk Prediction Platform",
+    "imageSrc": "projects/viva-leedshack2026.png",
+    "description": "Built a full-stack web application featuring an interactive risk assessment questionnaire with personalised risk scores, recommendations, and NHS guidance. ",
+    "skills": ["React, Python, Flask, ML Models"],
+    "demo": "https://lnkd.in/ea-nafAy",
+    "source": "https://github.com/luckycharm92/leedshack2026"
+  },
 
 
 
